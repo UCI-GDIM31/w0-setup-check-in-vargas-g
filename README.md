@@ -5,18 +5,18 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 ## Introduction
 
-1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
+1. Hello! My name is Guadalupe Vargas and I come from Coachella. My pronouns are she/her. Currently, my favorite games are Stardew Valley and Fields of Mistria. They're what I would describe as farming RPGs. I am also currently playing Slime Rancher 2 which I find to be fun and relaxing. I am taking the class as I would like to, in the future, posssibly create video games. To add, I am also really interested in the programming aspect of video games. The process fascinates me and I like that it is a creative process. I do not have any prior experience with game development. But, I hope to be able to create RPGs in the future.
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
+    - [X] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
     - [ ] Other (please specify)
 
-3. What are you hoping to get out of this class?
-4. What, if anything, are you nervous about for this class?
+3. I hope to be able to become more proficient with GitHub and also learn the basics of C#.
+4. I am most nervous about coding. While setting up the tools, there were so many icons and drop-down lists that I became a bit overwhelmed. In addition, being new at something typically makes me a bit anxious, but it also excites me to be able to learn something new.
 
 ## Prior Experience
 
@@ -24,11 +24,11 @@ The next questions ask about what (if any) prior experience you have. This class
 
 ### Development
 
-1. Programming (any languages/ frameworks)
+1. Programming (any languages/ frameworks) -- N/A
 
-2. Game development (any engine)
+2. Game development (any engine)           -- N/A
 
-3. Unity
+3. Unity                                   -- N/A
 
 ### Programming & Game Development Concepts
 
@@ -39,15 +39,15 @@ For the next questions, a programming or game development concept is presented:
 
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
-1. Game design document
+1. Game design document               -- N/A
 
-2. Scope management
+2. Scope management                   -- N/A
 
-3. Iteration
+3. Iteration                          -- N/A
 
-4. Object-Oriented programming
+4. Object-Oriented programming        -- N/A
 
-5. Model-View-Controller architecture
+5. Model-View-Controller architecture -- N/A
 
 ## Complete!
 
